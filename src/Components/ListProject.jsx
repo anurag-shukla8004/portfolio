@@ -36,8 +36,8 @@ const cardData = [
     description:
       "An app where user can create new or delete a list. Also user can view list and if incompleted task were delete then you can see in trash and from their you can restore or permantely delete. This will devlop on Html,Css,JavaScript, react ,redux and bootstrap",
     teckstack: [html,css,javascript,bootstrap],
-    source: "https://github.com/adityashukla0801/ToDo-List",
-    live: "https://newtodotask.netlify.app",
+    source: "https://github.com/anurag-shukla8004/js-todo",
+    live: "https://kind-spence-28bd3b.netlify.app",
   },
   {
     img: "images/weatherapp.png",
