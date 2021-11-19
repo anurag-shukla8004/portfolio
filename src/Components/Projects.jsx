@@ -1,5 +1,5 @@
 import React from "react";
-import GitHubCalander from "react-github-calendar";
+import GitHubCalendar from 'react-github-calendar';
 import ReactTooltip from "react-tooltip";
 import ListProject from "./ListProject";
 
@@ -73,13 +73,7 @@ function Projects() {
             <strong>Github</strong>
           </h2>
           <div className="calendar">
-            <GitHubCalander
-              username="anurag-shukla8004"
-              color="hsl(203, 82%, 33%)"
-            >
-             
-              <ReactTooltip delayShow={50} html />
-            </GitHubCalander>
+          <img src="images/git.png" alt=""/>
           </div>
         </div>
       </div>
