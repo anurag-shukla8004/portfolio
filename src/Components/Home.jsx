@@ -29,7 +29,7 @@ function Home() {
             <button
               onClick={() =>
                 window.open(
-                  "https://elegant-mestorf-f0e398.netlify.app"
+                  "https://drive.google.com/file/d/1xwBWSZFUad1dtvTFCrhQcn3VL5IBLqKH/view?usp=sharing"
                 )
               }
               className="btn btn-outline-dark mx-2"
