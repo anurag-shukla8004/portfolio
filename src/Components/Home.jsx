@@ -44,7 +44,7 @@ function Home() {
         </div>
         <div className="col-md-5">
           <div className="display_div ml-auto">
-            <img src="/anurag.png" style={{objectFit:"contain", background:"#0f2b36"}} className="display_img" />
+            <img src="/anurag.png" style={{objectFit:"contain", background:"rgb(25 25 27)"}} className="display_img" />
           </div>
         </div>
       </div>
