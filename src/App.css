@@ -44,3 +44,12 @@
   width: 2rem;
   margin: 2px;
 }
+.compeltedBox{
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: center;
+}
+.gitTrackerImg {
+  width: 100%;
+}
