@@ -9,26 +9,29 @@ let bootstrap = "https://cdn.svgporn.com/logos/bootstrap.svg";
 let react = "https://cdn.svgporn.com/logos/react.svg";
 let redux = "https://cdn.svgporn.com/logos/redux.svg";
 let javascript = "https://cdn.svgporn.com/logos/javascript.svg";
+let node = "https://cdn.svgporn.com/logos/nodejs.svg";
+let express = "https://cdn.svgporn.com/logos/express.svg";
+let mongodb = "https://cdn.svgporn.com/logos/mongodb.svg";
 
 
 const cardData = [
+   {
+    img: "images/flipcart.png",
+    name: "Proshop (E-commerce)",
+    description:
+      "Built a full-stack React.js and NodeJS e-commerce application equipped with User Authentication and with the ability for admins to manipulate products, categories and orders. Global Products Search, Paypal Payment Gateway, and Personal Profiles are some of the many features that are included",
+    teckstack: [react, redux, node, express, mongodb],
+    source: "https://github.com/anurag-shukla8004/proshop",
+    live: "https://proshop-reh4.onrender.com",
+  },
   {
     img: "images/moviefinder.png",
     name: "Movie Finder",
     description:
       "This Website will find the movie according to search and give the all the essential details like relaese date,poster,rarting and description.The axios were used for fetching the API . This will devlop on Html,Css,JavaScript, react and bootstrap",
-    teckstack: [html,css,javascript, react,bootstrap],
+    teckstack: [react ,bootstrap],
     source: "https://github.com/anurag-shukla8004/movies_finder-react",
     live: "https://eager-volhard-6ff21d.netlify.app",
-  },
-  {
-    img: "images/flipcart.png",
-    name: "Flipkart",
-    description:
-      "ECommerce Website project is a web application which is developed in react Consider the price of the product—items that are priced very low will make it difficult for you to get returns, but it also is difficult for people to purchase high-value items without seeing them first",
-    teckstack: [html,css,javascript, react,bootstrap],
-    source: "https://github.com/anurag-shukla8004/flipkart",
-    live: "https://happy-hamilton-ffa035.netlify.app",
   },
   {
     img: "images/todolist.png",
