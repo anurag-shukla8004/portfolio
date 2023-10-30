@@ -16,7 +16,7 @@ let mongodb = "https://cdn.svgporn.com/logos/mongodb.svg";
 
 const cardData = [
    {
-    img: "https://github.com/anurag-shukla8004/proshop/blob/main/frontend/public/images/screens.png",
+    img: "images/proshop.png",
     name: "Proshop (E-commerce)",
     description:
       "Built a full-stack React.js and NodeJS e-commerce application equipped with User Authentication and with the ability for admins to manipulate products, categories and orders. Global Products Search, Paypal Payment Gateway, and Personal Profiles are some of the many features that are included",
