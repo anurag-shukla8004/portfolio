@@ -73,7 +73,7 @@ function Projects() {
             <strong>Github</strong>
           </h2>
           <div className="calendar">
-          <img style="width:100%" src="images/git.png" alt=""/>
+          <img src="images/git.png" alt=""/>
           </div>
         </div>
       </div>
