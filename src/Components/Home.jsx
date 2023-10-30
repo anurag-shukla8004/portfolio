@@ -29,7 +29,7 @@ function Home() {
             <button
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/file/d/1G-VMZ3clkWB5u0D30rq-Df-_sOxmHEZm/view?usp=sharing"
+                  "https://drive.google.com/file/d/1GyqCLfVgZYZDIaprqNso8BmCegjP95YQ/view?usp=sharing"
                 )
               }
               className="btn btn-outline-dark mx-2"
