@@ -34,7 +34,7 @@ function Projects() {
         <h2 className="text-center">
           <strong>I Have Compelted</strong>
         </h2>
-        <div className="d-md-flex col-md-10 col-12 justify-content-center container my-4">
+        <div className="compeltedBox container my-4">
           <div className="text-center">
             <div className="circle mx-2 raise d-flex align-items-center justify-content-center">
               <h2 className="display-4">1000+</h2>
@@ -73,7 +73,7 @@ function Projects() {
             <strong>Github</strong>
           </h2>
           <div className="calendar">
-          <img src="images/git.png" alt=""/>
+          <img style="width:100%" src="images/git.png" alt=""/>
           </div>
         </div>
       </div>
